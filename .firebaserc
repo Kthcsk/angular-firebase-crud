@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-crud-intento": {
+      "hosting": {
+        "angular-firebase-crud": [
+          "angular-crud-intento"
+        ]
+      }
+    }
+  }
+}
